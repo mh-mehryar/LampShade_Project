@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6f31cd26-3aab-4873-af5e-c9b65cc49cde": {
+      "ProjectGuid": "6f31cd26-3aab-4873-af5e-c9b65cc49cde",
+      "DisplayName": "ShopManagement.Domain",
+      "ColorIndex": 0
+    },
+    "ea2521b2-c081-42e3-a3d3-70a463efebab": {
+      "ProjectGuid": "ea2521b2-c081-42e3-a3d3-70a463efebab",
+      "DisplayName": "0_Framework",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
